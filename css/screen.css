@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+    text-align: center;
+}
+p {
+    color: green;
+}
+
+header p {
+    color: purple;
+}
+header p span {
+    color: blue;
+}
+.lolex {
+    background-color: pink;
+}
